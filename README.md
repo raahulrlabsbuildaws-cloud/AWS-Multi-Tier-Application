@@ -16,7 +16,7 @@ This is **Portfolio Project 1** in my AWS cloud portfolio, showcasing hands-on i
 
 ## 🏗️ Architecture Diagram
 
-![AWS Multi-Tier Application Architecture](architecture-diagram.png)
+![AWS-Multi-Tier-Architecture.jpg)
 
 The architecture follows a **3-tier model** separating the web server, database, and storage layers:
 
