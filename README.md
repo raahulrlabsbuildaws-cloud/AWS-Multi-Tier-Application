@@ -224,7 +224,10 @@ The IAM role is attached directly to the EC2 instance — eliminating the need f
 - **Experience:** 7 Years Enterprise IT
 - **Skills:** AWS Cloud | Oracle DBA | MS SQL Server | Production Support
 - **Location:** Kolkata, West Bengal, India
-- **Open To:** AWS Solutions Architect | Cloud Engineer | Cloud DBA roles
+- **Contact No:** +919775994470
+- **Email Id:** raahul.rlabs.build.aws@gmail.com
+- **Linked Id:** https://www.linkedin.com/in/rahul-roy-4b351326a/
+- **Open To:** AWS Solutions Architect | Cloud Engineer | Cloud Architect | Cloud DBA roles
 
 ---
 
