@@ -30,16 +30,16 @@ The architecture follows a **3-tier model** separating the web server, database,
 
 ## ☁️ AWS Services Used
 
-| Service | Purpose | Free Tier |
-|---------|---------|-----------|
-| **VPC** | Isolated network with public and private subnets | Always Free |
-| **EC2 (t3.micro)** | Web server running Apache HTTP Server | Credits |
-| **RDS MySQL 8.4 (db.t3.micro)** | Managed relational database in private subnet | Credits |
-| **S3** | Object storage for application files | Credits |
-| **CloudWatch** | Monitoring dashboard for EC2 and RDS metrics | Always Free |
-| **IAM** | Role-based access control (EC2AppRole) | Always Free |
-| **Internet Gateway** | Enables public internet access to VPC | Always Free |
-| **Security Groups** | Firewall rules for HTTP, SSH, MySQL | Always Free |
+| Service | Purpose |
+|---------|---------|
+| **VPC** | Isolated network with public and private subnets |
+| **EC2 (t3.micro)** | Web server running Apache HTTP Server |
+| **RDS MySQL 8.4 (db.t3.micro)** | Managed relational database in private subnet |
+| **S3** | Object storage for application files |
+| **CloudWatch** | Monitoring dashboard for EC2 and RDS metrics |
+| **IAM** | Role-based access control (EC2AppRole) |
+| **Internet Gateway** | Enables public internet access to VPC |
+| **Security Groups** | Firewall rules for HTTP, SSH, MySQL |
 
 ---
 
