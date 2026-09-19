@@ -228,4 +228,3 @@ The IAM role is attached directly to the EC2 instance — eliminating the need f
 
 ---
 
-*Built with hands-on AWS experience | Following AWS Well-Architected Framework principles*
